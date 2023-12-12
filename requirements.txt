@@ -1,0 +1,3 @@
+pickleshare
+nltk
+scikit-learn
